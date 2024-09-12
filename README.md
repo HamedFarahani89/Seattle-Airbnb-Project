@@ -46,8 +46,7 @@ Key findings from the analysis include:
 - Deep neural network models achieved an R^2 score of 0.51, indicating a reasonable fit, while linear regression models had a similar score, demonstrating consistent performance.
 
 ## Acknowledgements
-- Dataset: [Airbnb Seattle Dataset](https://www.kaggle.com/airbnb/seattle)
-- Sentiment analysis tools and references for model implementations and visualizations.
+- Acknowledgements to Airbnb and Kaggle for providing the dataset. You can access it here:: [Airbnb Seattle Dataset](https://www.kaggle.com/airbnb/seattle)
 
 ---
 I published summary of this project in this article :https://medium.com/@hameddfarahanii/uncovering-trends-in-seattles-airbnb-market-an-analysis-and-prediction-49751c75ab29
