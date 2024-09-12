@@ -50,5 +50,5 @@ Key findings from the analysis include:
 - Sentiment analysis tools and references for model implementations and visualizations.
 
 ---
-
+I published summary of this project in this article :https://medium.com/@hameddfarahanii/uncovering-trends-in-seattles-airbnb-market-an-analysis-and-prediction-49751c75ab29
 You can copy and paste this directly into your GitHub repository's README file. Adjust any sections as needed based on your specific project details and results.
