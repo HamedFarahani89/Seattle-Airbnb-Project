@@ -47,7 +47,7 @@ Key findings from the analysis include:
 
 ## Acknowledgements
 - Acknowledgements to Airbnb and Kaggle for providing the dataset. You can access it here:: [Airbnb Seattle Dataset](https://www.kaggle.com/airbnb/seattle)
-
+- Acknowledgements to geeksforgeeks, I checked my docstrings on it:: https://www.geeksforgeeks.org/python-docstrings/
 ---
 I published summary of this project in this article :https://medium.com/@hameddfarahanii/uncovering-trends-in-seattles-airbnb-market-an-analysis-and-prediction-49751c75ab29
 You can copy and paste this directly into your GitHub repository's README file. Adjust any sections as needed based on your specific project details and results.
