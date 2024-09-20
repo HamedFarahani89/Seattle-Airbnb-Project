@@ -25,8 +25,7 @@ The primary aim was to explore and analyze the Seattle Airbnb dataset to address
 - Seasonal variations in pricing
 - Peak seasons and their impact on pricing
 - Pricing trends by neighborhood
-- Influence of property types on pricing in different neighborhoods
-- Price prediction based on listing features
+- Host Analysis
 
 ## File Descriptions
 The Jupyter notebook details the entire analysis process, including data preparation, exploratory data analysis, and predictive modeling. It includes markdown cells for documentation and interpretation of results.
@@ -40,8 +39,8 @@ The project folder contains:
 Key findings from the analysis include:
 - The peak season for Airbnb listings in Seattle is from June to August, with July being the highest.
 - The most expensive neighborhood is "Southeast Magnolia," while "Rainier Beach" is the least expensive.
-- Houses in "Portage Bay" are the priciest, followed by "West Queen Anne" and "Westlake."
-- Sentiment analysis of reviews revealed that most reviews are positive, with a small fraction being negative or neutral.
+- Pinhurst has the highest proportion of 'within a few hours'responses. This makes Pinhurst the most responsive neighborhood, where hosts are more likely to reply quickly.
+- Westlake has the highest proportion of 'a few days' or more for responses. This indicates that Westlake has the slowest host response times, making it the least responsive neighborhood.
 - Deep neural network models achieved an R^2 score of 0.51, indicating a reasonable fit, while linear regression models had a similar score, demonstrating consistent performance.
 
 ## Acknowledgements
