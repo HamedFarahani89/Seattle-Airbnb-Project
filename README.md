@@ -26,7 +26,6 @@ The primary aim was to explore and analyze the Seattle Airbnb dataset to address
 - Peak seasons and their impact on pricing
 - Pricing trends by neighborhood
 - Influence of property types on pricing in different neighborhoods
-- Sentiment analysis of reviews and their correlation with neighborhood ratings
 - Price prediction based on listing features
 
 ## File Descriptions
